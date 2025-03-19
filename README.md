@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Arun Kumar Gupta</h1>
 <h3>A Passionate and Dedicated frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Django Framework**
 
 - 💬 Ask me about **Data Structure and Algorithms,Java,OOPs,Operating System,DBMS**
 
