@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Arun Kumar Gupta</h1>
-<h3>A Passionate and Dedicated frontend developer from India</h3>
+<h3>A Passionate and Dedicated Frontend and Backend Developer from India</h3>
 
 - 🌱 I’m currently learning **Django Framework**
 
